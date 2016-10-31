@@ -18,14 +18,7 @@ The data is also included in the program folder.
 
 to get the answers for these classifications you just have to change the file name in main program.
 
-the data in these files are in the format of
-
-          class1 class2 class3 class4 ........ 
-feature 1
-feature 2
-.
-.
-.
-.
+the data in these files are in the format  where each column represents one vector and rows represent the feature of the vector. 
+and the first row of the data contains the class of the vectors.
 
 
