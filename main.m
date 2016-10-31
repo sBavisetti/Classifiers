@@ -1,8 +1,8 @@
 close all;
 clear all;
 % Reading Training data from text files;
-train_data = csvread('DataMiningProject1/ATNT50/trainDataXY.txt');
-test_data =  csvread('DataMiningProject1/ATNT50/testDataXY.txt');
+train_data = csvread('ATNT50_trainDataXY.txt');
+test_data =  csvread('ATNT50_testDataXY.txt');
 
 %transposing both training data and testing data  to put them in proper
 %formats
